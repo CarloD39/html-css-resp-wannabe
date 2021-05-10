@@ -85,6 +85,7 @@ img {
 
   .row{
     margin-top: 0;
+    padding: 10px;
   }
 
   #lezioni.container .row{
@@ -112,7 +113,6 @@ img {
 
   #why .row{
     background-color: lightgoldenrodyellow;
-    padding: 10px 10px;
     width: 100%;
 
   }
@@ -122,8 +122,6 @@ img {
     width: 100%;
     margin-top: 40px;
   }
-
-  
 
   
 }
